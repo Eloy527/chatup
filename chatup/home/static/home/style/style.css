@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+header {
+  font-family: "Montserrat", sans-serif;
+  height: 15vh;
+  background-color: darkgray;
+  display: flex;
+}
+header h2 {
+  margin: 0;
+  padding: 5vh;
+  margin-right: 30vw;
+}
+header a {
+  text-decoration: none;
+  color: black;
+  font-size: x-large;
+  padding: 5vh;
+}
+#name_user {
+  font-weight: bold;
+}
+#btn_sign_up{
+    height: 8vh;
+    width: 8vw;
+    margin-top: 3vh;
+
+    font-size: x-large;
+    background-color: darkgray;
+    border-color: dark;
+    border-radius: 15px;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(210, 210, 210);
+}
