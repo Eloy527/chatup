@@ -2,8 +2,9 @@
 header {
   font-family: "Montserrat", sans-serif;
   height: 15vh;
-  background-color: darkgray;
+  background-color: rgb(255, 255, 255);
   display: flex;
+  
 }
 header h2 {
   margin: 0;
@@ -19,18 +20,9 @@ header a {
 #name_user {
   font-weight: bold;
 }
-#btn_sign_up{
-    height: 8vh;
-    width: 8vw;
-    margin-top: 3vh;
-
-    font-size: x-large;
-    background-color: darkgray;
-    border-color: dark;
-    border-radius: 15px;
-}
 
 body {
+  font-family: "Comic Sans MS", sans-serif;
+  background-color: #f0f0f0;
   margin: 0;
-  background-color: rgb(210, 210, 210);
 }
